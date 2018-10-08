@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "allmarket-project-777",
+  "private_key_id": "b5d3b9a8bd8fa531f705922ce63478fd768c8b0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyKyeq/ySuvAal\nvYunZuZ7LMXc8gChjYqlLg//ZK5PKU4Uqa2aD5yWZ6s0BxkjReHR1hft+ImzAnln\n3Bd38MQIQbrxXM7tCRkJXPxhHnfMLM/TZ/8Zb0c79S1UgUsWNKPlrST9XYR6F870\nxMWauapxrk6otXaLUr6mkX8zz+yqLP797hYTzMW3Tl97TxrtSkA1DK0npAddVJ9D\nKVZ80TzKNTTmcK35kndm5PGyrnSgw55AmaaNMZyZP7GuuvGl61PDkUyy1vmpbAnZ\n7sH/dvXIpixrVf88f8jn9qN6jr7jVKB05GC4XlG+ZUzZDGng3HBROCdp91rvzQdd\nHuRnIVhnAgMBAAECggEALwDOjsCP418sW8ZFFQ1DCcTWkELx4qzuIkSkKMrdZ3ns\npOvcpjOvKkjANFIZEiKqAAs8teWnIigpcjpwoI5OkSUSFgHXf1YymjNDS7XXgfBi\nhZG+jW27e7hjVJNlhT6u7HVAuGzW+cTVLuLIhNitfB8xljWFSB00ucnRppAYjg4u\naCpyGb9S7ImM8zKAuO3C3pe+6om0fm0Y2r4rVRO+ZFdKUJjoVUHp9Sy6+QqvH3jn\nyhh4HzhIYZmqErPPuUSS3/imG0w5GqIglCv848oXkPo4wFMWp8N79JJsTnX6zlZ5\nC/vgUOPMzr4yiifPW1rHYsOPnXmpS9r/3B4j1Q6rqQKBgQDvyLIyQy6R8E4rYF/P\nAPbeEqdooWAj3HNjmMxHJLrrjndT+L9+obWbWNRrD16SLGPKn9UJ6wTXCHQXzUrR\n3wS6K10+jScjcVomd7O+yhBqWeoz2kBNDr93fqEg2PCtMLgX7RbgRTdNAVAPzJ7j\nnwgJxI1Xo44qMK6xls431NKdCQKBgQC+N7smOjaATOAvLaatrYYAwMYBx3jUWMv7\nOMf6UoaxapCr6jOtXEG0ZNnhNNKDl+NBFhmEeyN089B0grL9/o3+pkEoc7pbv2vy\nWU0VSnS3fwZVh55F6DePcXUQqoMUe+s7hYfzSzl42/wC2H7ilOw4kRSVu3q/QrN2\n9kvReWcV7wKBgD9ZBErnGMyRcfVftrAXjyDISNYJnD6dJRbw7Tb2azOEJd5XXy/z\nROlPpH7MRq3TcGG9rCi8oEC3CQSoxdWAV91fS3kVDXv9nFWBVklXVNLkAk3EoSw6\nczb8i1EEP0FiF6CqkFqbrqp3aFFkO63i+9qoxLacjRh0WBKuxrhVT3cRAoGAcMcK\nJrgM6DSsFkyyrfZbpMamnxdtBDlBd0lLB5c2VKoh7EuHKBmyuwmwRF3VEkBTdJtt\ntaZsd0K3LNzw0rbB6WEY8Krsqsjrb1yS3zStzr15O+yUYk4z4tAZ4C+4V8TAyyF4\nYT8QbB/BYs6JLD2vcDpUQhJNzGf3j2inuyKHg/ECgYAVdF5/lmJERB6ajFF5fJWg\nBYEeT9X3jydd4vQCsGdniRKeuOlx24utmMkAJajTpZ0aMowW/qicQW5YxsMK0/q9\nBB9nnIdxacQmUgchae0zdaHcdVKi1a7Pk5Y6BiqHzdrZpdLVKmBmOog2cECWrynL\noDTjAzEs2tX0gkbPQGCFjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "allmarket1@allmarket-project-777.iam.gserviceaccount.com",
+  "client_id": "116563051867752889659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/allmarket1%40allmarket-project-777.iam.gserviceaccount.com"
+}
